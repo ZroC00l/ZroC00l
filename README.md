@@ -24,11 +24,14 @@ and always deliver results.
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
-<div align="right">
- Connect with Me:
- [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))]
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400">
- </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
  
 <div align="center" margin-top="10px" backgroundColor="white">                   
  <div align="center"><h2 text-align="center">GitHub Trophy Profile</h2></div>
