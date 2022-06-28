@@ -1,7 +1,7 @@
 
  
 <header align="center">
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="center" height="600" width="900">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="center" height="600" width="1150">
 </header>
 
 
