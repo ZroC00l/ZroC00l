@@ -33,9 +33,9 @@ and always deliver results.
 </p>
  </div>
  
- <div align="left">
+ 
  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="left" width="400">
- </div> 
+ 
 
  
 <div align="center" margin-top="10px" backgroundColor="white">                   
