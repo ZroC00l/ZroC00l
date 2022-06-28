@@ -24,4 +24,4 @@
 <div align="center">
 [!(https://github-readme-stats.vercel.app/api?username=ZroC00l&show_icons=true&theme=radical)
 
-<.div>
+</div>
