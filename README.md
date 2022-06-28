@@ -17,8 +17,7 @@ Ethical and principled in and outside of a workplace, self-driven
 and focused with the ability to work under pressure 
 and always deliver results.
  </p>
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400">
- </div>
+
 
 <div align="center">
  <div align="center"><h2 text-align="center">Technology Stack</h2></div>
