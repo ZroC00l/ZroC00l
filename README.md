@@ -9,9 +9,12 @@
 <div align="center">
  <span align="center"><h2 text-align="center">Technology Stack</h2></span>
  
- <span align="right"><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400"></span>
+ <span align="right">
+  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400">
+ </span>
 
-<span align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </span>
+<span align="left">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </span>
 </div>
 
 
