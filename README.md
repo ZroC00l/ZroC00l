@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<div align="center"><h2 text-align="center">Technology Stack</h2></div>
 
 <div align="center">
+ <div align="center"><h2 text-align="center">Technology Stack</h2></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,8 +11,7 @@
 
 
 
-
- <div align="center">                   
+<div align="center">                   
  <div align="center"><h2 text-align="center">GitHub Trophy Profile</h2></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZroC00l&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
