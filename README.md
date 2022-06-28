@@ -4,8 +4,8 @@
  <h1> Hello There :wave:, My name is Gift</h1>
 </header>
 
-<div align="right">
- <span>
+<div align="center">
+ <span width="400">
   <h2>
    About Me
   </h2>
