@@ -51,3 +51,10 @@ and always deliver results.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZroC00l&show_icons=true&theme=radical)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZroC00l&theme=radical)](https://git.io/streak-stats)
 </div>
+ 
+ 
+<div align="center">
+ <div align="center"><h2 align-text="center">GitHub Profile Views Counter</h2></div>
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+</div>
