@@ -26,7 +26,7 @@ and always deliver results.
  
  
 <div align="center">
-     [![Gif](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)](https://github.com/ZroC00l)
+     <img src="chttps://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="gif"/>
 </div>
  
 
