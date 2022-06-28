@@ -27,14 +27,15 @@ and always deliver results.
  
 <div align="center">
 <h2 align="left">Connect with me:</h2> 
- <div style="margin-bottom:25px">
- <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="left" width="400"> 
- </div>
+
+  <h1>
+     <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="left" width="250" height="250"> 
+  </h1>
 </div>
  
 
  
-<div align="center" margin-top="10px" backgroundColor="white">                   
+<div align="center">                   
  <div align="center"><h2 text-align="center">GitHub Trophy Profile</h2></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZroC00l&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
