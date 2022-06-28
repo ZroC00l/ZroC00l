@@ -5,6 +5,8 @@
 </header>
 
 <div align="center">
+ <h1>About Me</h1>
+ <p>
 I am an individual who is dedicated to their work as well as 
 personal self-improvement, a team player at heart who is always
 focused on results. I would like to describe myself as a time-oriented
@@ -14,6 +16,7 @@ as well as building software and maintaining it.
 Ethical and principled in and outside of a workplace, self-driven
 and focused with the ability to work under pressure 
 and always deliver results.
+ </p>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400">
  </div>
 
