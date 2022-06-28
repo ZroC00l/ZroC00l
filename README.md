@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div><h2>Heading 1</h2></div>
+<div align="center"><h2 text-align="center">Technology Stack</h2></div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,5 +16,5 @@
 
 <div><h2>Heading 3</h2></div>
 
-[![](https://github-readme-stats.vercel.app/api?username=ZroC00l&show_icons=true&theme=radical)
+[!(https://github-readme-stats.vercel.app/api?username=ZroC00l&show_icons=true&theme=radical)
 
