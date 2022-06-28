@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1BcrzLTtkkOvHA1ONd3BcXcXkd8O6BdGC/view?usp=sharing)](https://github.com/ZroC00l)
+[![MasterHead](https://raw.githubusercontent.com/ZroC00l/banner/main/banner-01.png)](https://github.com/ZroC00l)
  
 <h1> Hello There :wave: My name is Gift</h1>
 
