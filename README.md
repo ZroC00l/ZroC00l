@@ -10,9 +10,10 @@
 </div>
 
 
-<div align="center"><h2 text-align="center">GitHub Trophy Profile</h2></div>
 
- <div align="center">                                  
+
+ <div align="center">                   
+ <div align="center"><h2 text-align="center">GitHub Trophy Profile</h2></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZroC00l&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
