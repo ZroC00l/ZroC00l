@@ -19,8 +19,7 @@
 
 
 
-<div align="center"><h2 text-align="center">GitHub Profile Statistics</h2></div>
-
 <div align="center">
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZroC00l&show_icons=true&theme=radical)
 </div>
