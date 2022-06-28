@@ -1,7 +1,7 @@
-
+[![MasterHead]()]()
  
 <header align="center">
- <h1> Hello There :wave:, My name is Gift</h1>
+ <h1> Hello There :wave: My name is Gift</h1>
 </header>
 
 <div align="center">
@@ -17,16 +17,19 @@ Ethical and principled in and outside of a workplace, self-driven
 and focused with the ability to work under pressure 
 and always deliver results.
  </p>
-
-
+  
 <div align="center">
  <div align="center"><h2 text-align="center">Technology Stack</h2></div>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
-
-
+<div align="right">
+ Connect with Me:
+ [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400">
+ </div>
+ 
 <div align="center" margin-top="10px" backgroundColor="white">                   
  <div align="center"><h2 text-align="center">GitHub Trophy Profile</h2></div>
 
