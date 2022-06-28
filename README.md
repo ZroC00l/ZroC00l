@@ -21,7 +21,7 @@
 
 <div align="center"><h2 text-align="center">Heading 3</h2></div>
 
-<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZroC00l&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+
