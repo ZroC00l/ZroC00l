@@ -29,8 +29,11 @@ and always deliver results.
  <div align="center"><h2 text-align="center">Connect with me</h2></div>
  
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+ ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
  
-     <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="gif"/>
+   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="gif"/>
 </div>
  
 
