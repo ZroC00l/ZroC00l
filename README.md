@@ -49,5 +49,5 @@ and always deliver results.
  <div align="center"><h2 text-align="center">GitHub Profile Statistics</h2></div>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZroC00l&show_icons=true&theme=radical)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZroC00l)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZroC00l&theme=radical)](https://git.io/streak-stats)
 </div>
