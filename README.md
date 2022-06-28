@@ -10,7 +10,9 @@
  <div align="center"><h2 text-align="center">Technology Stack</h2></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="center"width="400">
+
+ <span><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="center"width="400"></span>
+ 
 </div>
 
 
