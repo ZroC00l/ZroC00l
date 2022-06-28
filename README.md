@@ -10,7 +10,7 @@
 </div>
 
 
-<div align="center"><h2 text-align="center">Heading 2</h2></div>
+<div align="center"><h2 text-align="center">GitHub Trophy Profile</h2></div>
 
  <div align="center">                                  
 
@@ -19,9 +19,7 @@
 
 
 
-<div align="center"><h2 text-align="center">Heading 3</h2></div>
+<div align="center"><h2 text-align="center"></h2></div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZroC00l&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZroC00l&show_icons=true&theme=radical)
