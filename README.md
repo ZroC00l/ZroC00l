@@ -23,15 +23,14 @@ and always deliver results.
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZroC00l&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
+ 
+ 
 <div align="center">
 <h2 align="left">Connect with me:</h2> 
- 
+ <div style="margin-bottom:25px">
  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="left" width="400"> 
- 
  </div>
- 
- 
- 
+</div>
  
 
  
