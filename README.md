@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/ZroC00l/banner/main/banner-01.png)](https://github.com/ZroC00l)
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F714D7&background=FFFFFF00&lines=Hello+There%2C+My+Name+is+Gift+;I'm+a+full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=12000&color=F714D7&background=FFFFFF00&center=true&width=500&lines=Hello+There%2C+My+Name+is+Gift+;I'm+a+full-stack+developer)](https://git.io/typing-svg)
 
 
 
