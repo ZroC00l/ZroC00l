@@ -27,6 +27,9 @@ and always deliver results.
  
 <div align="center">
  <div align="center"><h2 text-align="center">Connect with me</h2></div>
+ <div align="center">
+ ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+ </div>
      <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="gif"/>
 </div>
  
