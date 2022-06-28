@@ -27,7 +27,7 @@ and always deliver results.
 <div align="right">
  Connect with Me:
  [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400">
+
  </div>
  
 <div align="center" margin-top="10px" backgroundColor="white">                   
