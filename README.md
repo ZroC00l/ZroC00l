@@ -1,6 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?t=st=1656406429~exp=1656407029~hmac=44372b0ac171c5b2350eadc8e302f74ff6172ac15a69ec087c1c50d9407c3cfb&w=2000)](https://github.com/ZroC00l)
+
 
 <div align="center">
+ [![MasterHead](https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?t=st=1656406429~exp=1656407029~hmac=44372b0ac171c5b2350eadc8e302f74ff6172ac15a69ec087c1c50d9407c3cfb&w=2000)](https://github.com/ZroC00l)
  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="codingGif" align="center" width="400"/>
  
  </div>
