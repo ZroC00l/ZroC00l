@@ -5,14 +5,12 @@
 </header>
 
 <div align="center">
- <span width="400">
   <h2>
    About Me
   </h2>
   <p>
    I am an individual who is dedicated to their work as well as personal self-improvement, a team player at heart who is always focused on results. I would like to describe myself as a time-oriented person with the utmost respect for time. A highly flexible individual with a solid background in government ICT infrastructures as well as building software and maintaining it. Ethical and principled in and outside of a workplace, self-driven and focused with the ability to work under pressure and always deliver results.
-  </p>
- </span>
+ </p>
   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="bannerGif"/ align="right"width="400">
  </div>
 
